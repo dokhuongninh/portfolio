@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "baseUrl": "./src",
+    "paths": {
+      "@/assets/*": ["./assets/*"],
+      "@/constants/*": ["./constants/*"],
+      "@/pages/*": ["./pages/*"],
+      "@/components/*": ["./components/*"],
+      "@/routes/*": ["./routes/*"]
+    }
+  }
+}
